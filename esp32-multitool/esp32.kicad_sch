@@ -1,0 +1,42 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 2f43e27e-8d74-4197-821a-4a6d6c91aee2)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (no_connect (at 162.56 44.45) (uuid 43749d0a-3759-4b6f-8479-f2be18b78d73))
+  (no_connect (at 162.56 40.132) (uuid 43749d0a-3759-4b6f-8479-f2be18b78d73))
+  (no_connect (at 186.436 36.068) (uuid 62b2c0db-c661-49e4-a66e-4bb4d0f49c99))
+  (no_connect (at 186.436 39.37) (uuid 73efd0b3-ae98-4761-b4e9-ea8247c642d1))
+  (no_connect (at 186.69 47.244) (uuid 73efd0b3-ae98-4761-b4e9-ea8247c642d1))
+  (no_connect (at 162.56 36.068) (uuid facba6da-3a8a-4812-9be3-2712ec21461c))
+
+  (hierarchical_label "GND" (shape input) (at 162.56 44.45 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 37c698c2-4247-4c57-ae33-10b3f69be9a6)
+  )
+  (hierarchical_label "+3.3V" (shape bidirectional) (at 162.56 36.068 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 9d2e8fb3-9499-455e-b148-ebc59c64b6b5)
+  )
+  (hierarchical_label "CAN_RX" (shape input) (at 186.436 39.37 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid b4a5ad27-5742-4a7e-ad7d-9beb68af8ee3)
+  )
+  (hierarchical_label "+5V" (shape input) (at 162.56 40.132 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid ba8bf4f7-1582-435b-9da9-2d481cbfcb34)
+  )
+  (hierarchical_label "CAN_TX" (shape output) (at 186.436 36.068 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid d030f6d5-7afe-4040-a788-2705b0cc7539)
+  )
+  (hierarchical_label "LEDC1" (shape output) (at 186.69 47.244 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid fe6729e6-523c-4c16-9f5f-7c6bd2c7a3ea)
+  )
+)
