@@ -4,17 +4,21 @@ ESP32 Multitool is an I/O board for ESP32 microcontroller based projects.  It is
 
 ## Features
 
-- 4x Analog Inputs
+- 3x Analog Inputs
 	- +0-30VDC
 	- Measure voltage or resistance
-- 4x Digital Inputs
-- 4x PWM/Switch Outputs
+- 3x PWM/Switch Outputs
 	- Configurable voltage from VIN, +5V, and External
 	- 1A current per channel
+- 1x Pulse/Tachometer Input
+- 1x Digital Potentiometer
 - CAN/N2K 
+- RS422/NMEA 0183
 - 1-Wire
 - I2C
 	- Qwiic and Adafruit compatible I2C connector
+- SPI
+- Wifi/BLE
 - Power
 	- +5 - 30VDC Input
 	- OVP, RV, and ESD Protection
