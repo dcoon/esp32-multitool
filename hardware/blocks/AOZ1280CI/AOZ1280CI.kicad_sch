@@ -968,6 +968,11 @@
     )
     (pin "1" (uuid 2d97703a-a759-4f3f-873e-208f85ab4538))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "#PWR0304") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "#PWR0304") (unit 1)
@@ -1000,6 +1005,11 @@
     (pin "1" (uuid 84aac425-4f99-4482-b1d6-e762c70ec7e6))
     (pin "2" (uuid 3201b29e-c513-4acf-b744-d8c09fbace7d))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "D301") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "D301") (unit 1)
@@ -1029,6 +1039,11 @@
     (pin "1" (uuid e72ba247-ad70-4a6f-8c1f-0e75f229f4a0))
     (pin "2" (uuid f39e8e75-8037-40e4-aa8d-5519756fecb7))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "C11") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "C11") (unit 1)
@@ -1061,6 +1076,11 @@
     (pin "1" (uuid 8c025c5c-8404-43a1-bb23-a277d8707c16))
     (pin "2" (uuid 6ef8a780-0866-445e-ac2c-451ffba93e22))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "C2") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "C2") (unit 1)
@@ -1096,6 +1116,11 @@
     (pin "1" (uuid e7347c06-8f2c-463c-9e4f-153c2c9c47f9))
     (pin "2" (uuid 30d40f9d-e599-470d-b465-1f65cd779d3e))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "L1") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "L1") (unit 1)
@@ -1121,6 +1146,11 @@
     )
     (pin "1" (uuid 4354f524-f8c2-4000-8574-cf947ae78506))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "#FLG05") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "#FLG05") (unit 1)
@@ -1153,6 +1183,11 @@
     (pin "1" (uuid ce82df1c-ebd8-42f1-9ef2-d7da0a8ef58e))
     (pin "2" (uuid dd4b7251-0119-4c88-b9a7-89f253b21b90))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "D2") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "D2") (unit 1)
@@ -1179,6 +1214,11 @@
     (pin "1" (uuid 874e857a-205f-4955-a0fe-dd362ded01f7))
     (pin "2" (uuid fb5542ce-2cfa-4bbd-8622-0042fd7f03c9))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "R18") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "R18") (unit 1)
@@ -1204,6 +1244,11 @@
     )
     (pin "1" (uuid 9dbea29b-41b4-4e00-8013-890d6e4f7105))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "#FLG03") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "#FLG03") (unit 1)
@@ -1233,6 +1278,11 @@
     (pin "1" (uuid 9deb540c-d766-40a6-a015-33d40312f905))
     (pin "2" (uuid 9ab95e12-b173-446d-ba49-595edd04838c))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "C3") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "C3") (unit 1)
@@ -1258,6 +1308,11 @@
     )
     (pin "1" (uuid d8a791cd-d1c4-4278-a43f-c7688684a55c))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "#PWR020") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "#PWR020") (unit 1)
@@ -1284,6 +1339,11 @@
     (pin "1" (uuid 3ef5ae16-8a4b-462c-8098-b0e71c812d79))
     (pin "2" (uuid a47d3147-f36f-4eae-a8f4-6a9b2c6ed0c7))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "R16") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "R16") (unit 1)
@@ -1310,6 +1370,11 @@
     (pin "1" (uuid 19c44931-31ae-44e5-be22-2ac14e9e9b55))
     (pin "2" (uuid f1ad80fc-7c45-4e34-8998-a43dcd2d2935))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "J4") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "J4") (unit 1)
@@ -1335,6 +1400,11 @@
     )
     (pin "1" (uuid 9b90d903-401d-4674-8035-2f1756e4e849))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "#FLG01") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "#FLG01") (unit 1)
@@ -1363,6 +1433,11 @@
     (pin "3" (uuid 9dbc471b-171f-4828-ac49-710f8e181f01))
     (pin "4" (uuid d4c58e8b-82f6-4b4f-92a0-aea5fde25d5d))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "J5") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "J5") (unit 1)
@@ -1395,6 +1470,11 @@
     (pin "1" (uuid c4db8886-0be7-4a3a-b882-dfc52b19a749))
     (pin "2" (uuid 83830b39-65dd-4ac4-98d7-5c23885f3f83))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "D1") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "D1") (unit 1)
@@ -1425,6 +1505,11 @@
     (pin "5" (uuid 2c31ed63-c10d-4d7a-a2ab-272a6a13ffa4))
     (pin "6" (uuid facddc75-aa14-48cd-bcb8-a3f3e3ca0024))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "U9") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "U9") (unit 1)
@@ -1451,6 +1536,11 @@
     (pin "1" (uuid 731770a8-719f-4196-9c57-8558275e4838))
     (pin "2" (uuid 6c159874-f041-4fce-9e70-0488d0dcc725))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "R17") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "R17") (unit 1)
@@ -1476,6 +1566,11 @@
     )
     (pin "1" (uuid 68ead631-91df-4a2a-a68f-f91a5d8a4502))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "#PWR07") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "#PWR07") (unit 1)
@@ -1501,6 +1596,11 @@
     )
     (pin "1" (uuid 5221841b-0141-43f5-b904-eb3e04e3d0e0))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "#PWR05") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "#PWR05") (unit 1)
@@ -1526,6 +1626,11 @@
     )
     (pin "1" (uuid 51d392db-8b18-48c0-9ef4-39caba777cd3))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "#FLG02") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "#FLG02") (unit 1)
@@ -1552,11 +1657,20 @@
     (pin "1" (uuid f5cb7fdf-7eeb-411f-8032-08b56188e242))
     (pin "2" (uuid 3601f5d7-7705-4415-bca7-85b727fdce0b))
     (instances
+      (project "AOZ1280CI"
+        (path "/19037d17-30ac-469f-9cec-826c813b1973"
+          (reference "F1") (unit 1)
+        )
+      )
       (project "esp32-multitool"
         (path "/3d8a08e7-1222-4d27-bd08-b4e997cf9472/adc601b0-4251-4316-9e44-bdea119919c8"
           (reference "F1") (unit 1)
         )
       )
     )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
   )
 )

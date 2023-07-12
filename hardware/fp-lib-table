@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "ESP32_mini")(type "KiCad")(uri "${KIPRJMOD}/Library/ESP32_mini_KiCad_Library/ESP32_mini.pretty")(options "")(descr "")(disabled))
   (lib (name "ESP32")(type "KiCad")(uri "${KIPRJMOD}/Library/ESP32/footprints")(options "")(descr ""))
+  (lib (name "TPSM84205EAB")(type "KiCad")(uri "${KIPRJMOD}/Library/ti/TPSM84205EAB")(options "")(descr ""))
 )

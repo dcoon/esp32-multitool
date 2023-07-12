@@ -579,8 +579,8 @@
       ""
     ],
     [
-      "adc601b0-4251-4316-9e44-bdea119919c8",
-      "power"
+      "b4c88f03-9d86-4f2d-ace7-e10a98cf3c43",
+      "analog_in2"
     ],
     [
       "13bf32cd-4789-4a01-a929-6da9fa17db82",
@@ -592,7 +592,7 @@
     ],
     [
       "40d3e835-7882-47da-bbda-1d52f2e34de6",
-      "analog_in"
+      "analog_in1"
     ],
     [
       "91781125-bbd9-4b2a-a0b6-c99de8034bd4",
@@ -609,6 +609,18 @@
     [
       "f9d349b3-837f-44a8-8ae1-0f3a2a1be1fb",
       "i2c"
+    ],
+    [
+      "4bc1b9a0-a86c-4f98-ae56-a026f26a504a",
+      "power"
+    ],
+    [
+      "7d31a057-7aa5-446b-bc15-c25b1994b237",
+      "pwm1"
+    ],
+    [
+      "b75e0fcb-eab3-4500-b9dd-41171f0e6ad6",
+      "switch"
     ]
   ],
   "text_variables": {}
